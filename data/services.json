@@ -1,0 +1,20 @@
+[
+  {
+    "service_id": "S001",
+    "name": "Room Service",
+    "category": "Dining",
+    "price": 250.0
+  },
+  {
+    "service_id": "S002",
+    "name": "Laundry",
+    "category": "Guest Care",
+    "price": 150.0
+  },
+  {
+    "service_id": "S003",
+    "name": "Breakfast Upgrade",
+    "category": "Dining",
+    "price": 180.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guest_id": "G001",
+    "name": "Arjun Kumar Reddy",
+    "phone": "9000000001",
+    "email": "arjun.test@example.com",
+    "address": "Test Address, Hyderabad",
+    "id_proof": "TEST-ID-001"
+  },
+  {
+    "guest_id": "G002",
+    "name": "Test Guest Two",
+    "phone": "abc123",
+    "email": "test.guest2@example.com",
+    "address": "Test Address, Hyderabad",
+    "id_proof": "TEST-ID-002"
+  },
+  {
+    "guest_id": "G003",
+    "name": "Phone Test Guest",
+    "phone": "9000000003",
+    "email": "phone.test@example.com",
+    "address": "Test Address, Hyderabad",
+    "id_proof": "TEST-ID-003"
+  }
+]

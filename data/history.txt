@@ -1,0 +1,2 @@
+Booking: B002 | Bill: BILL-B002 | Guest: G001 (Arjun Kumar Reddy) | Room: 202 | Check-in: 2026-10-11 | Check-out: 2026-10-12 | Total: INR 4225.00
+Booking: B005 | Bill: BILL-B005 | Guest: G001 (Arjun Kumar Reddy) | Room: 202 | Check-in: 2026-10-11 | Check-out: 2026-10-12 | Total: INR 4987.50

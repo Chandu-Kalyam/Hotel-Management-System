@@ -1,0 +1,83 @@
+[
+  {
+    "booking_id": "B001",
+    "guest_id": "G001",
+    "room_no": 101,
+    "check_in": "2026-10-12",
+    "check_out": "2026-10-14",
+    "guests_count": 1,
+    "status": "Confirmed"
+  },
+  {
+    "booking_id": "B002",
+    "guest_id": "G001",
+    "room_no": 202,
+    "check_in": "2026-10-11",
+    "check_out": "2026-10-12",
+    "guests_count": 1,
+    "status": "Checked-out"
+  },
+  {
+    "booking_id": "B003",
+    "guest_id": "G001",
+    "room_no": 101,
+    "check_in": "2026-10-14",
+    "check_out": "2026-10-15",
+    "guests_count": 1,
+    "status": "Cancelled"
+  },
+  {
+    "booking_id": "B004",
+    "guest_id": "G001",
+    "room_no": 301,
+    "check_in": "2026-10-11",
+    "check_out": "2026-10-13",
+    "guests_count": 1,
+    "status": "Checked-in"
+  },
+  {
+    "booking_id": "B005",
+    "guest_id": "G001",
+    "room_no": 202,
+    "check_in": "2026-10-11",
+    "check_out": "2026-10-12",
+    "guests_count": 1,
+    "status": "Checked-out"
+  },
+  {
+    "booking_id": "B006",
+    "guest_id": "G001",
+    "room_no": 202,
+    "check_in": "2026-10-11",
+    "check_out": "2026-10-12",
+    "guests_count": 1,
+    "status": "Cancelled"
+  },
+  {
+    "booking_id": "B007",
+    "guest_id": "G003",
+    "room_no": 202,
+    "check_in": "2026-10-11",
+    "check_out": "2026-10-12",
+    "guests_count": 1,
+    "status": "Checked-in"
+  },
+  {
+    "booking_id": "B008",
+    "guest_id": "G003",
+    "room_no": 1,
+    "check_in": "2026-10-12",
+    "check_out": "2026-10-13",
+    "guests_count": 1,
+    "status": "Confirmed"
+  },
+  {
+    "booking_id": "B009",
+    "guest_id": "G001",
+    "room_no": 101,
+    "check_in": "2026-10-14",
+    "check_out": "2026-10-15",
+    "guests_count": 1,
+    "status": "Confirmed"
+  }
+]

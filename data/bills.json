@@ -1,0 +1,70 @@
+[
+  {
+    "bill_id": "BILL-B002",
+    "booking_id": "B002",
+    "room_charge": 4000.0,
+    "service_charges": 500.0,
+    "tax": 225.0,
+    "discount": 500.0,
+    "total": 4225.0,
+    "payment_status": "Paid",
+    "services": [
+      {
+        "service_id": "S001",
+        "name": "Room Service",
+        "category": "Dining",
+        "unit_price": 250.0,
+        "quantity": 2,
+        "line_total": 500.0
+      }
+    ]
+  },
+  {
+    "bill_id": "BILL-B004",
+    "booking_id": "B004",
+    "room_charge": 13000.0,
+    "service_charges": 400.0,
+    "tax": 670.0,
+    "discount": 0.0,
+    "total": 14070.0,
+    "payment_status": "Pending",
+    "services": [
+      {
+        "service_id": "S001",
+        "name": "Room Service",
+        "category": "Dining",
+        "unit_price": 250.0,
+        "quantity": 1,
+        "line_total": 250.0
+      },
+      {
+        "service_id": "S002",
+        "name": "Laundry",
+        "category": "Guest Care",
+        "unit_price": 150.0,
+        "quantity": 1,
+        "line_total": 150.0
+      }
+    ]
+  },
+  {
+    "bill_id": "BILL-B005",
+    "booking_id": "B005",
+    "room_charge": 4000.0,
+    "service_charges": 750.0,
+    "tax": 237.5,
+    "discount": 0.0,
+    "total": 4987.5,
+    "payment_status": "Paid",
+    "services": [
+      {
+        "service_id": "S001",
+        "name": "Room Service",
+        "category": "Dining",
+        "unit_price": 250.0,
+        "quantity": 3,
+        "line_total": 750.0
+      }
+    ]
+  }
+]

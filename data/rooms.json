@@ -1,0 +1,58 @@
+[
+  {
+    "room_no": 101,
+    "floor": 1,
+    "room_type": "Standard",
+    "capacity": 2,
+    "base_price": 2500.0,
+    "status": "Reserved"
+  },
+  {
+    "room_no": 202,
+    "floor": 2,
+    "room_type": "Deluxe",
+    "capacity": 3,
+    "base_price": 4000.0,
+    "status": "Occupied"
+  },
+  {
+    "room_no": 301,
+    "floor": 3,
+    "room_type": "Suite",
+    "capacity": 4,
+    "base_price": 6500.0,
+    "status": "Occupied"
+  },
+  {
+    "room_no": 1,
+    "floor": 1,
+    "room_type": "Standard",
+    "capacity": 2,
+    "base_price": 2500.0,
+    "status": "Reserved"
+  },
+  {
+    "room_no": 401,
+    "floor": 5,
+    "room_type": "Standard",
+    "capacity": 2,
+    "base_price": 2500.0,
+    "status": "Maintenance"
+  },
+  {
+    "room_no": 402,
+    "floor": 5,
+    "room_type": "Standard",
+    "capacity": 1,
+    "base_price": 2500.0,
+    "status": "Available"
+  },
+  {
+    "room_no": 403,
+    "floor": 5,
+    "room_type": "Standard",
+    "capacity": 2,
+    "base_price": 2500.0,
+    "status": "Available"
+  }
+]
