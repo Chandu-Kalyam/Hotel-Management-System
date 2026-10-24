@@ -1,0 +1,11 @@
+﻿[theme]
+base = "light"
+primaryColor = "#b28a4b"
+backgroundColor = "#fbfaf6"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#24313b"
+font = "sans serif"
+
+[server]
+# Polling avoids Windows watchdog races while Python replaces temporary .pyc files.
+fileWatcherType = "poll"
